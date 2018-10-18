@@ -20,7 +20,7 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'testazurewordpress');
+define('DB_NAME', 'test-azure-wordpress');
 
 /** MySQL database username */
 define('DB_USER', 'justin@test-mysql-server');
